@@ -1,1 +1,2 @@
 this is my 2nd git practicing class
+thsi is second line of git 2
